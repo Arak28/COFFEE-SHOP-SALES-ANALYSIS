@@ -15,5 +15,6 @@ The main objective was to use SQL to genrate queries from the transactional data
 
 The output from SQL served as the foundation for developing a Power BI dashboard, offering stakeholders clear insights into the sales behavior, customer preferences and operational trends.
 
-
+## CONCLUSION-
+The project demonstrates the effectiveness of combining SQL-based data querying with Power BI for visualizing data trends. Through detailed trend and growth analysis, we can show key insights such as high-performing product categories, hourly peak sales, and store-specific performance. The final dashboard provides a decision-making tool that enhances strategic planning for inventory, promotions, and staffing in coffee retail operations.
 
